@@ -206,7 +206,7 @@ WHERE
 				<textElement>
 					<font fontName="Arial" size="12" isBold="true"/>
 				</textElement>
-				<text><![CDATA[Công Ty Điện Lực Nam Từ Liêm]]></text>
+				<text><![CDATA[Công Ty Điện Lực Trường Trường Dương]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="0" y="21" width="572" height="18" forecolor="#1EA0C8" uuid="78590b45-cded-4bd6-b81c-9bc46f29b952">
@@ -215,7 +215,7 @@ WHERE
 				<textElement>
 					<font fontName="Arial" size="12" isBold="false"/>
 				</textElement>
-				<text><![CDATA[Địa Chỉ:	Tổ dân phố số 5 Mễ Trì Hạ, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội]]></text>
+				<text><![CDATA[Địa Chỉ:	Tổ dân phố số 5 Minh Khai Hạ, Phường Minh Khai, Quận Bắc Từ Liêm, Thành phố Hà Nội]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="0" y="39" width="572" height="18" forecolor="#1EA0C8" uuid="5a8b5c3b-64c6-4f5e-9391-bc6b7eb0b3a7">
